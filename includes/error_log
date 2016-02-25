@@ -1,0 +1,529 @@
+[19-May-2016 22:05:00 Europe/Sarajevo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasakba/public_html/canteen/includes/ajax.php on line 419
+[07-Sep-2016 16:09:04 Europe/Sarajevo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasakba/public_html/canteen/includes/ajax.php on line 419
+[07-Sep-2016 16:09:07 Europe/Sarajevo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasakba/public_html/canteen/includes/ajax.php on line 419
+[12-Oct-2016 19:48:22 Europe/Sarajevo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasakba/public_html/canteen/includes/ajax.php on line 419
+[12-Oct-2016 19:48:28 Europe/Sarajevo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasakba/public_html/canteen/includes/ajax.php on line 419
+[12-Oct-2016 19:48:30 Europe/Sarajevo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasakba/public_html/canteen/includes/ajax.php on line 419
+[12-Oct-2016 19:48:42 Europe/Sarajevo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasakba/public_html/canteen/includes/ajax.php on line 419
+[12-Oct-2016 19:48:44 Europe/Sarajevo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasakba/public_html/canteen/includes/ajax.php on line 419
+[12-Oct-2016 19:50:01 Europe/Sarajevo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasakba/public_html/canteen/includes/ajax.php on line 419
+[12-Oct-2016 19:50:21 Europe/Sarajevo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasakba/public_html/canteen/includes/ajax.php on line 419
+[12-Oct-2016 20:04:12 Europe/Sarajevo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasakba/public_html/canteen/includes/ajax.php on line 419
+[12-Oct-2016 20:11:33 Europe/Sarajevo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasakba/public_html/canteen/includes/ajax.php on line 419
+[12-Oct-2016 20:12:33 Europe/Sarajevo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasakba/public_html/canteen/includes/ajax.php on line 419
+[12-Oct-2016 20:13:22 Europe/Sarajevo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasakba/public_html/canteen/includes/ajax.php on line 419
+[12-Oct-2016 20:13:25 Europe/Sarajevo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasakba/public_html/canteen/includes/ajax.php on line 419
+[12-Oct-2016 20:13:27 Europe/Sarajevo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasakba/public_html/canteen/includes/ajax.php on line 419
+[20-Oct-2016 19:31:54 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[20-Oct-2016 19:31:56 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[20-Oct-2016 19:31:56 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[25-Oct-2016 12:36:21 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[25-Oct-2016 12:56:01 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[25-Oct-2016 12:56:01 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[25-Oct-2016 12:56:01 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[25-Oct-2016 15:13:25 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 09:47:55 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 09:47:57 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 09:48:02 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 09:56:34 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 10:06:54 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 10:33:18 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 10:33:21 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 10:33:30 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 10:33:33 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 10:53:50 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 13:58:02 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 13:58:02 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 13:58:02 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 14:05:24 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 14:06:53 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 14:06:53 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 14:06:54 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 14:06:55 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 17:03:15 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 17:03:15 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 17:12:15 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 17:20:07 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 17:20:10 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 17:20:28 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 17:20:28 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 17:20:28 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 18:17:26 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 18:25:41 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 18:25:41 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 18:25:41 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 18:25:41 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 18:25:41 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 18:25:43 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 18:25:43 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 18:25:43 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 18:25:43 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 18:25:46 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 18:34:23 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 18:43:36 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 18:44:36 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 18:44:37 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 18:44:39 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 18:44:41 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[27-Oct-2016 20:42:34 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[29-Oct-2016 10:29:06 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[29-Oct-2016 11:07:13 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[29-Oct-2016 11:07:14 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[29-Oct-2016 11:07:16 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[29-Oct-2016 11:07:16 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[29-Oct-2016 11:25:53 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[29-Oct-2016 11:25:53 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[29-Oct-2016 11:43:39 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[29-Oct-2016 12:00:36 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[29-Oct-2016 12:00:38 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[29-Oct-2016 12:09:32 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[29-Oct-2016 12:09:38 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[29-Oct-2016 12:09:38 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[29-Oct-2016 16:30:58 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[29-Oct-2016 16:30:58 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[29-Oct-2016 16:30:58 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[29-Oct-2016 16:30:58 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[29-Oct-2016 16:30:58 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[29-Oct-2016 16:30:59 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[29-Oct-2016 16:30:59 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:24:04 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:24:05 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:24:29 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:24:29 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:24:29 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:24:29 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:24:35 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:24:35 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:24:35 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:24:35 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:31:50 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:31:50 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:31:50 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:31:50 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:31:50 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:31:50 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:54:27 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:54:27 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:54:27 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:54:29 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:54:29 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:54:30 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:54:30 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:54:30 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:54:31 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 09:54:31 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:04:52 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:04:52 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:04:57 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:04:57 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:04:57 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:04:57 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:04:57 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:04:57 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:04:57 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:04:57 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:04:57 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:04:57 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:04:57 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:04:58 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:04:59 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:04:59 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:04:59 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:04:59 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:04:59 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:04:59 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:05:03 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:05:03 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:05:03 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:05:03 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:05:03 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:05:03 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:05:03 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:05:03 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:05:03 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:05:03 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:05:03 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:05:03 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:05:03 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:05:03 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:05:03 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:45:52 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:45:52 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:45:52 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:45:52 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:45:52 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:45:52 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:45:52 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:57:23 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:57:23 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:57:23 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:57:25 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:57:28 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:57:28 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:57:28 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 10:57:28 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 13:33:37 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 13:33:37 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 13:33:37 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 13:33:37 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 13:33:37 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 13:33:37 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 13:33:37 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 13:33:37 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:04:00 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:04:08 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:04:08 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:23:08 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:23:08 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:23:08 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:23:08 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:23:09 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:23:19 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:23:19 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:23:22 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:23:23 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:23:23 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:31:36 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:31:38 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:31:38 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:31:38 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:31:38 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:53:01 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:53:02 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:53:02 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:53:02 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:53:02 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:53:02 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 14:54:55 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[30-Oct-2016 16:35:29 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 14:06:45 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 14:06:46 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 14:06:53 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 14:15:43 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 14:15:47 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 14:23:42 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 14:43:05 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 15:01:50 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 15:02:06 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 15:02:07 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 15:02:14 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 17:00:27 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 17:00:27 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 17:00:27 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 17:00:27 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 17:00:36 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 17:00:39 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 18:40:40 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 18:40:40 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 18:51:57 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 18:51:59 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 19:12:46 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 19:12:47 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 19:12:50 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 19:12:50 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 19:12:56 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 19:22:18 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 19:22:18 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 19:22:18 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 19:22:18 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 19:22:21 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 19:42:04 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 20:04:34 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 20:04:34 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 20:04:36 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 20:04:40 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 20:13:28 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 20:13:28 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[01-Nov-2016 20:13:30 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[02-Nov-2016 20:21:47 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 09:20:37 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 09:20:38 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 09:20:38 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 09:20:38 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 09:39:50 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 09:39:50 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 09:39:51 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 12:32:20 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 12:37:35 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 12:37:51 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 12:37:51 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 12:37:55 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 12:38:01 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 12:38:24 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 12:38:32 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 12:38:32 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 12:38:32 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 12:46:30 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 12:46:30 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 12:57:08 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 12:57:08 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 12:57:10 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 12:57:16 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:06:28 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:06:28 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:06:28 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:06:30 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:30:10 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:30:11 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:30:13 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:30:13 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:30:27 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:30:31 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:30:31 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:30:35 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:46:53 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:47:26 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:49:20 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:49:25 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:50:20 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:50:25 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:50:36 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:50:42 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:51:04 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:51:07 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:51:17 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:51:27 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:51:30 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:51:46 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:52:47 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:52:51 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:52:55 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:53:30 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:53:30 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:53:37 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:53:55 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:53:55 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:54:00 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:54:02 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:55:05 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:55:05 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:55:05 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:55:05 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:55:05 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:55:06 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:55:06 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:55:06 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:55:12 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:55:20 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:55:26 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:55:30 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:55:35 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:55:42 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:55:45 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:55:53 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:56:54 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:56:54 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:57:15 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:57:46 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:57:46 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:57:46 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:57:59 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:58:01 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:58:07 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:58:41 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:59:19 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:59:19 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:59:26 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 13:59:28 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:00:26 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:00:33 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:01:16 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:01:45 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:01:45 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:01:45 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:01:46 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:02:34 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:02:36 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:03:02 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:03:05 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:03:12 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:03:18 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:03:18 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:03:21 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:03:25 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:03:45 Europe/Sarajevo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hasakba/public_html/canteen/includes/user.php on line 12
+[03-Nov-2016 14:03:45 Europe/Sarajevo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasakba/public_html/canteen/includes/ajax.php on line 207
+[03-Nov-2016 14:03:45 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:03:45 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:03:46 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:03:50 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:04:05 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:04:08 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:04:08 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:04:17 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:04:17 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:04:23 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:04:26 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:04:30 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:04:35 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:04:40 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:04:45 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:04:50 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:04:57 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:05:03 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:05:07 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:05:12 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:05:15 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:05:21 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:05:25 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:05:30 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:05:35 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:05:40 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:05:45 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:05:50 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:05:59 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:06:02 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:06:06 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:06:10 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:06:17 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:06:21 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:06:25 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:06:30 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:06:44 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:06:46 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:06:47 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:06:51 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:06:55 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:07:01 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:07:08 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:07:10 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:07:15 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:07:20 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:07:27 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:07:31 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:07:36 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:07:40 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:07:46 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:07:51 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:07:55 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:08:00 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:08:05 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:09:56 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:09:56 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:09:56 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:09:56 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:09:57 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:10:03 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:10:05 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:10:12 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:10:21 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:10:21 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:10:31 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:10:32 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:10:36 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:10:40 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:10:46 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:10:50 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:10:55 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:12:59 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:12:59 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:12:59 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:12:59 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:12:59 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:13:18 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:13:18 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 14:16:50 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:06:11 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:06:15 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:08:06 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:08:11 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:08:52 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:27:56 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:28:10 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:28:18 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:28:20 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:28:33 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:30:47 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:30:47 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:30:47 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:30:50 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:30:55 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:31:15 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:31:15 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:32:01 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:32:20 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:33:20 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:33:25 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:34:06 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:34:39 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:34:41 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:35:37 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:36:01 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:36:01 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:36:01 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:36:01 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:37:02 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:37:02 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:38:23 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:38:23 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:38:51 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:38:57 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:39:01 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:39:06 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:39:10 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:39:25 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:39:30 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:39:36 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:39:40 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:39:45 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:39:50 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:39:55 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:40:00 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:40:07 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:40:10 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 16:40:15 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 18:33:36 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 18:33:50 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 18:33:51 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[03-Nov-2016 18:33:51 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:45:32 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:45:32 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:45:32 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:45:32 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:45:37 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:45:40 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:45:40 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:45:40 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:45:42 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:45:42 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:45:42 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:45:42 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:45:47 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:45:47 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:45:47 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:45:47 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:45:52 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:45:52 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:45:52 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:45:52 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:45:57 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:45:57 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:45:57 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:45:57 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:46:02 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:46:02 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:46:02 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:46:02 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:46:07 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:46:07 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:46:07 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:46:07 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:58:07 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:58:07 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:58:07 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:58:07 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:58:07 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:58:10 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:58:32 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 15:58:40 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 16:01:16 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Nov-2016 16:01:17 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Dec-2016 18:57:29 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Feb-2017 05:09:29 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Feb-2017 05:09:34 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Feb-2017 05:09:39 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Feb-2017 05:09:44 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Feb-2017 05:09:49 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Feb-2017 05:09:54 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Feb-2017 05:09:59 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9
+[04-Feb-2017 05:10:09 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hasakba/public_html/canteen/includes/db.php on line 9

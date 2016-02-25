@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.title{
+    margin-top:5%;
+    font-family: Calibri;
+    font-size: 100px;
+    color: #fff;
+}
+
+.center{
+    text-align: center;
+}
+.skrv{
+    display: none;
+}
+/* ------------ */
+
+/* Remove the navbar's default margin-bottom and rounded borders */
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+/* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+.row.content {height: 450px}
+
+/* Set gray background color and 100% height */
+.sidenav {
+    padding-top: 20px;
+    background-color: #f1f1f1;
+    height: 100%;
+}
+
+/* Set black background color, white text and some padding */
+footer {
+    background-color: #444;
+    color: #ccc;
+    padding: 15px;
+}
+
+/* On small screens, set height to 'auto' for sidenav and grid */
+@media screen and (max-width: 767px) {
+    .sidenav {
+        height: auto;
+        padding: 15px;
+    }
+    .row.content {height:auto;}
+}
+
+/* ------------ */
+.wr {
+    padding: 0 30px 0 30px;
+}
+.cwell{
+    padding: 6px 0 0;
+    height: 34px;
+    margin-bottom: 15px;
+}
+
+#logo1{
+    margin-bottom: 20px;
+}
+
+.disabledd{
+    cursor: not-allowed;
+    background-color: #eee;
+}
+.glyphicon-remove{
+    color: #f00;
+    cursor: pointer;
+}
+
+.glyphicon-ok{
+    color: green;
+    cursor: pointer;
+}
+
+/* ---- REGISTRATION ---- */
+
+#ha1{
+    color: #fff;
+}
+.inpt{
+    background-color: rgba(0,0,0,0);
+    color: #FFFFFF;
+}
+.opt{
+    background-color: #004687;
+}
+
+.table-hover tr[data-trr=trr]:first-of-type, tr[data-tr=tr], tr[data-trr2=trr2], tr[data-trr3=trr3]{
+    cursor: pointer;
+}
+
+#contbx{
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    height:auto;
+}
+
+#hajter{
+    display: flex;
+    height:auto;
+}
+@media screen and (max-width: 767px){
+    #hajter{
+        display: block;
+    }
+}
+
+.it{
+    font-style: italic;
+}
+input[type="date"]:before {
+    content: attr(placeholder) !important;
+    color: #fff;
+    margin-right: 0.5em;
+}
+input[type="date"]:focus:before,
+input[type="date"]:valid:before {
+    content: "";
+}
